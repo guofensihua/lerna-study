@@ -1,5 +1,5 @@
 {
-  "name": "one",
+  "name": "@sihuaguofen/one",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "过分丝滑 <649663763@qq.com>",
@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
